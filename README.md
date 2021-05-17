@@ -1,3 +1,5 @@
+Install dependencies :
+### 'npm install'
 
 ## Available Scripts
 
